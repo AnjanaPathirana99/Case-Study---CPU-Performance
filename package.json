@@ -1,0 +1,29 @@
+{
+  "name": "case-study---cpu-performance",
+  "version": "1.0.0",
+  "description": "CPU Performance Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjanaPathirana99/Case-Study---CPU-Performance.git"
+  },
+  "keywords": [
+    "cpu",
+    "performance",
+    "react",
+    "node",
+    "js"
+  ],
+  "author": "Anjana Pathirana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjanaPathirana99/Case-Study---CPU-Performance/issues"
+  },
+  "homepage": "https://github.com/AnjanaPathirana99/Case-Study---CPU-Performance#readme",
+  "dependencies": {
+    "zuosh-current-processes": "^1.0.3"
+  }
+}
